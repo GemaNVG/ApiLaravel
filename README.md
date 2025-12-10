@@ -9,9 +9,9 @@ Creacion de una *Api REESTful* en ***Laravel*** para realizar las siguientes acc
 - PUT
 - PATCH
 - DELETE
-<br>
-- Modelos
-    - Students (Fillable "name", "email", "phone", "language")
-    - PruebaGit (Segundo commit)
+
+Modelos
+- Students (Fillable "name", "email", "phone", "language")
+- PruebaGit (Segundo commit)
 
 
